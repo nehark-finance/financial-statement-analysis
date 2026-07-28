@@ -1,1 +1,1 @@
-Financial Performance Analysis of IKEA (INGKA Group): A Three-Year Financial Review 
+Three-Year Financial Performance Analysis of IKEA (INGKA Group) using publicly available financial reports
